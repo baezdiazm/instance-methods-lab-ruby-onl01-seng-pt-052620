@@ -4,5 +4,5 @@ def bark
 end
 end
 
-fido = God.new
+fido = Dog.new
 fido.bark
